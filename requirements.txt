@@ -1,0 +1,4 @@
+Pillow==7.0.0
+PyAutoGUI==0.9.48
+requests==2.23.0
+selenium==3.141.0
