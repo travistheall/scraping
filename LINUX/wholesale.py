@@ -1,1 +1,0 @@
-driver.get('https://vaperanger.com/pages/all-brands')
