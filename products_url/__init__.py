@@ -4,8 +4,6 @@ import requests
 from all_urls import get_site_name, mk_sitemap_path, connect_to_db
 from sqlalchemy import create_engine
 
-#ToDo: Chill the fuck out dog....
-
 # https://blazedvapes.com/sitemap_products_1.xml?from=287200215070&to=6193489313967
 def create_sitemap_products_file_name(url):
     file = url[url.find('.com/') + len('.com/'):]
