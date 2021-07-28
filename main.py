@@ -8,8 +8,6 @@ from base_url import (get_urls_df as base_get_urls_df,
                       load_site_map as base_load_site_map)
 from products_url import (get_urls_df as prod_get_urls_df,
                           load_site_map as prod_load_site_map)
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 from sqlalchemy import create_engine
 
 # Press the green button in the gutter to run the script.
